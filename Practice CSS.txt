@@ -1,0 +1,33 @@
+<html>
+<head>
+<title> Practice CSS
+</title>
+
+<style>
+
+.h2 p {
+  background: red;
+}
+
+.h2 p.green {
+  background: green;
+}
+
+
+</style>
+</head>
+
+
+<body>
+
+<p class="h2">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam, leo ac sodales feugiat, nunc risus ultrices mauris, et sagittis enim purus elementum lectus. Nulla efficitur suscipit augue, ac semper felis bibendum quis. Cras vel lorem sit amet dolor venenatis porta a eget nunc. Duis a mattis diam, a accumsan ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum scelerisque dapibus est, et luctus justo pretium ut. Curabitur ut urna ut ipsum tincidunt aliquam. Nam varius convallis nulla quis hendrerit. In semper est sit amet lectus gravida iaculis. Mauris id eros luctus, euismod mi eu, iaculis felis. Phasellus id varius eros, nec viverra tortor. Suspendisse tristique dictum orci, vitae dapibus massa molestie eget. Cras cursus mattis accumsan.
+</p>
+
+<p class="green">
+Vivamus faucibus sem orci, ut auctor nulla finibus eget. Aenean vehicula libero nec justo malesuada, ac mollis ligula ullamcorper. Donec quis varius purus. Maecenas augue orci, commodo efficitur elit at, lacinia interdum augue. Sed ultrices bibendum sem, sed molestie sem ultricies at. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin pulvinar ultrices dolor mollis facilisis. Etiam ullamcorper enim id ex elementum vulputate non congue sapien. Nam quis luctus elit. Sed sagittis nunc sed enim lobortis bibendum. Quisque mattis dui in velit lobortis, ut rutrum diam pharetra.
+</p>
+
+
+</body>
+</html>
